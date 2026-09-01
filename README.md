@@ -313,23 +313,6 @@ If you are using EMDR as part of mental-health treatment, this project should no
 
 ---
 
-## Why Open Source?
-
-I started this project because I wanted an alternative to the expensive, closed devices that are currently available.
-
-The goal isn't to pretend that a first version is going to be a perfect commercial product.
-
-The goal is to create a **solid, affordable starting point that is open to everyone**.
-
-If you want to build it, you can.
-
-If you can improve it, improve it.
-
-If you want to design a better enclosure, go for it.
-
-If you want to write the firmware or application, even better.
-
-Hopefully, over time, this can grow into something more useful through contributions from other makers, developers, and hardware enthusiasts.
 
 ---
 
